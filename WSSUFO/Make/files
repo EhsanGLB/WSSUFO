@@ -1,0 +1,4 @@
+WSS.C
+WSSFunctionObject.C
+
+LIB = $(FOAM_USER_LIBBIN)/libutilityFunctionObjectsWSS
