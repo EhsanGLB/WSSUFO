@@ -68,6 +68,9 @@ SourceFiles
     WSS.C
     IOWSS.H
 
+Author
+    Ehsan Golab, SUT. All rights reserved.
+
 \*---------------------------------------------------------------------------*/
 
 #ifndef WSS_H
