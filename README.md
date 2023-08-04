@@ -1,5 +1,5 @@
 # WSSUFO
-This is a utility function object for wall shear stress based on foam-extend-4.1.
+This is a utility function object for wall shear stress written based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
